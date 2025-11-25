@@ -13,6 +13,8 @@ other operational data.
 Beyond development, I have strong skills in database design, including creating robust Entity Relationship Diagrams (
 ERDs) and designing scalable database schemas with proper relationships and constraints.
 
+Looking forward to pursue my career in software architecture.
+
    <p align="left">
       <a href="https://www.linkedin.com/in/dachi-lekborashvili-986b75225/">
          <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
